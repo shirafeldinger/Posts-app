@@ -1,0 +1,16 @@
+.Addpost {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+input {
+  width: 40% !important;
+  margin: auto !important;
+}
+
+.hide {
+  display: none;
+}
